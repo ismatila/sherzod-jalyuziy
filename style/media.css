@@ -1,0 +1,12 @@
+@media (max-width:435px) {
+    .logo{
+        width: 200px;
+    }
+    .logo__text{
+        font-size: 25px;
+    }
+    .nav__link{
+        font-size: 10px;
+    }
+    
+}
